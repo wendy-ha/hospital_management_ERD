@@ -7,7 +7,6 @@ In Healthcare System, the patient data acquired from diverse sources can be cate
 In this practice, the ERD below presents an alternative method for storing healthcare data in the form of a relational database that is compatible with Azure SQL Database.
 
 ## Entity Relational Diagram for Hospital Management System
-<br/><br/>
 - RDMS: MySQL Workbench
-- Designed by: Wendy Ha
+<br/><br/>
 ![hospital_management_erd](https://user-images.githubusercontent.com/90888090/187009977-2492a748-91b2-43e7-a7da-3d0dbf8a3f5e.png)
