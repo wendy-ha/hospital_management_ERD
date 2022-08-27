@@ -1,7 +1,11 @@
 # ERD for Hospital Management System
 
 ## Overview
-In Healthcare System, the patient data acquired from diverse sources can be categorised as structured data such as Electronic Health Records (EHR), unstructured data such as biomedical images (such as MRI scan images), or semistructured data such as XML and JSON documents. These data will be stored in the target databases' raw data stores.
+In Healthcare System, the patient data acquired from diverse sources can be categorised as:
+- Structured data such as patient's Electronic Health Records (EHR)
+- Unstructured data such as biomedical images (including computed tomography (CT) imaging, magnetic resonance imaging (MRI), X-ray, molecular imaging, ultrasound, photo-acoustic imaging, functional MRI (fMRI), positron emission tomography (PET), electroencephalography (EEG), and mammograms)
+- Semistructured data such as XML and JSON documents. 
+These data will be stored in the target databases' raw data stores.
 <br/><br/>
 
 In this practice, the ERD below presents an alternative method for storing healthcare data in the form of a relational database that is compatible with Azure SQL Database.
