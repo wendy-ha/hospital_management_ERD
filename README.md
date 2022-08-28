@@ -9,7 +9,7 @@ These data will be stored in the target databases' raw data stores.
 <br/><br/>
 
 ## Challenge in data standardisation
-Current standards and technology are unable to meet the needs of the integrative applications of Big Data in healthcare (Mancini, 2014b; D.C. Mohr et al., 2013). This is because of two distinct issues. First, the data lack common standards and a consistent structure for describing them. Second, integrating diverse format of structured, semi-structured, and unstructured data is challenging. As a result, each database employs unique software and data formats making data comparison, analysis and sharing more challenging (Chawla & Davis, 2013).
+Current standards and technology are unable to meet the needs of the integrative applications of Big Data in healthcare (Mancini, 2014b; D.C. Mohr et al., 2013). This is because of two distinct issues. First, the data lack common standards and a consistent structure for describing them. Second, integrating diverse format of structured, semi-structured, and unstructured data is challenging. On the other hand, each database employs unique software and data formats making data comparison, analysis and sharing more challenging (Chawla & Davis, 2013).
 
 In this practice, the ERD below presents an alternative method for storing healthcare data in the form of a relational database that is compatible with Azure SQL Database.
 
