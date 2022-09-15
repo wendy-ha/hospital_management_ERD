@@ -2,7 +2,7 @@
 
 ## Overview
 In Healthcare System, the patient data acquired from diverse sources can be categorised as:
-- Structured data such as patient's Electronic Health Records (EHR)
+- Structured data such as patient's Electronic Health Records (EHR).
 - Unstructured data such as biomedical images (including computed tomography (CT) imaging, magnetic resonance imaging (MRI), X-ray, molecular imaging, ultrasound, photo-acoustic imaging, functional MRI (fMRI), positron emission tomography (PET), electroencephalography (EEG), and mammograms)
 - Semistructured data such as XML and JSON documents. 
 These data will be stored in the target databases' raw data stores.
